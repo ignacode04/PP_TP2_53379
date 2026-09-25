@@ -6,13 +6,13 @@
 
 ---
 
-## 📋 Descripción del Proyecto
+## Descripción del Proyecto
 
 Este proyecto es la continuación y evolución del **Trabajo Práctico N°1**, extendiendo el paradigma de Programación Orientada a Objetos en **Java** mediante la aplicación de conceptos avanzados tales como **Excepciones Personalizadas**, **Persistencia de Objetos (Serialización)**, **Interfaces y Polimorfismo**, **Genéricos y Wildcards**, **Clases Anidadas** y **Concurrencia con Hilos (Threads)**.
 
 ---
 
-## 🛠️ Tecnologías y Conceptos Aplicados
+## Tecnologías y Conceptos Aplicados
 
 - **Lenguaje:** Java
 - **Excepciones:** Manejo de excepciones verificadas (`CupoExcedidoException`) para control de reglas de negocio.
@@ -24,7 +24,7 @@ Este proyecto es la continuación y evolución del **Trabajo Práctico N°1**, e
 
 ---
 
-## 📐 Estructura del Proyecto
+## Estructura del Proyecto
 
 El código está organizado modularmente en paquetes según sus responsabilidades:
 
@@ -49,6 +49,6 @@ src/
 ├── App.java                    (Clase de prueba e integración del TP2)
 └── Main.java                   (Clase de ejecución del TP1 adaptada)
 
-## 📸 Evidencia de Ejecución
+## Evidencia de Ejecución
 
 ![Consola de Ejecución](consolaTP2.png)
